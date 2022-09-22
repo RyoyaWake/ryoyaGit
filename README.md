@@ -1,0 +1,3 @@
+# ryoyaGit
+
+MyRepository
